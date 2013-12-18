@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1323095895">
+    <data-source source="LOCAL" name="Data Source" uuid="0a8f9af6-3f56-46c7-a5cf-35f70bee066c">
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/school2</jdbc-url>
+      <user-name>shuhrat</user-name>
+      <user-password>dfdedfcbdfd8dfc2dfdfdfd9dfc2</user-password>
+      <default-dialect>PostgreSQL</default-dialect>
+      <libraries>
+        <library>
+          <url>jar://$PROJECT_DIR$/postgresql-9.2-1002.jdbc4.jar!/</url>
+        </library>
+        <library>
+          <url>file://$PROJECT_DIR$/postgresql-driver-license.txt</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
